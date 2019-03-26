@@ -15,6 +15,10 @@ Topics discussed this week:
 
 _Deadline Wednesday_
 
+
+**1.0** Please download the js documents from the following link. You will use and make changes on these documents for the following homeworks. 
+(https://github.com/HackYourFuture/JavaScript2/blob/master/Week2/homework)
+
 **1.1** Say you would like to write a program that doubles the odd numbers in an array and throws away the even numbers.
 
 Your solution could be something like this:
